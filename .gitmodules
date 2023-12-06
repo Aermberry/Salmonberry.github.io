@@ -1,0 +1,3 @@
+[submodule "themes/zhaoo"]
+	path = themes/zhaoo
+	url = git@github.com:zhaoo/hexo-theme-zhaoo.git
